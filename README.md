@@ -1,5 +1,5 @@
-# CodingProblems Solved using C++ with Explanation 
-1. Fibonaci Series using Recursion
+# Coding Problems Solved using C++ with Explanation 
+1. Fibonacci Series using Recursion
 2. Stairway to Heaven
 3. On the way Home
 4. Rod Cutter
